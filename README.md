@@ -1,4 +1,4 @@
-# timbo-skills 使用指南
+# 使用指南
 
 本目录收录了 13 个面向 AI 编程助手的 skill。每个子目录中的 `SKILL.md` 是对应 skill 的完整工作说明，`scripts/`、`references/`、`templates/` 和 `assets/` 等目录提供配套内容。Skill 提供工作流程指引；需要调用外部 CLI、浏览器或宿主功能时，还要完成下方列出的准备。
 
